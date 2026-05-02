@@ -92,7 +92,7 @@ export default function Home() {
             <button
               className="secondary-btn"
               onClick={() =>
-                window.open("https://github.com", "_blank", "noopener,noreferrer")
+                window.open("https://github.com/therowlingk/shieldlend", "_blank", "noopener,noreferrer")
               }
             >
               View GitHub Repo
