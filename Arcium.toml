@@ -1,0 +1,6 @@
+[project]
+name = "shieldlend"
+description = "Private liquidation protection for Solana lending using Arcium"
+
+[encrypted_ixs]
+risk_check = "encrypted-ixs/risk_check.rs"
